@@ -1,0 +1,13 @@
+Personnalisation franckfmk
+
+Nom : franckfmk
+GitHub : FM60449
+Dépôt : https://github.com/FM60449/Script_ssh
+E-mail : clessiasen@gmail.com
+Pays : RDC
+Ville : KINSHASA
+Telegram : https://t.me/+AGSm5q7DOXw1ZTk0
+WhatsApp : https://wa.me/qr/MYF4LQF37RO7A1
+
+Le fichier backup/rclone.conf a été retiré car il contenait un token OAuth sensible.
+Le mot de passe SMTP d’origine a également été retiré de backup/set-br.sh.
